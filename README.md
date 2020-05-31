@@ -1,11 +1,21 @@
 
 
+# IMPORTANT
 
-# Angular Router Course
+The Angular Router Course is currently being completely re-filmed from scratch and will be out very soon,
+under the new name Angular Router In Depth:
+
+![Angular Router Course](https://angular-university.s3-us-west-1.amazonaws.com/course-images/angular-router-course.jpg)
+
+While the new version is still being filmed,  this repository will contain two versions of the course: 
+
+- The master branch (that you are currently on) contains the old version of the course 
+
+- the [1-start](https://github.com/angular-university/angular-router-course/tree/1-start) branch contains the starting point of the new course
+
+# Angular Router Course (The old version)
 
 This repository contains the code of the [Angular Router Course](https://angular-university.io/course/angular2-routing).
-
-All the video content of this course is valid for the latest Angular v6 release, there is a npm-lock.json file available for avoiding semantic versioning issues.
 
 ![Angular Router Course](https://angular-academy.s3.amazonaws.com/thumbnails/angular2-routing-small-v2.png)
 
